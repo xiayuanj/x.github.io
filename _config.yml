@@ -6,6 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+url                      : "https://yuxing101298.github.io"
+baseurl                  : "/Xia.github.io"
 title                    : "夏元俊"
 description              : "网络空间安全｜隐私保护机器学习、入侵检测与流量识别"
 repository               : "Yu-LeLe/Yu-Lele.github.io"
