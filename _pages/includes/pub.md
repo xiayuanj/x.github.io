@@ -15,7 +15,7 @@
 11. Dong Shi, Su Huadong, **Xia Yuanjun**, Zhu Fei*, Hu Xinrong, Wang Bangcao. A Comprehensive Survey on Authentication and Attack Detection Schemes That Threaten It in Vehicular Ad-Hoc Networks[J], **IEEE Transactions on Intelligent Transportation Systems**, 24(12):13573-13602, 2023.（2023年中科院一区TOP，CCF B）
 12. Liang Yangfan, Liu Gao, Zhang Xianchao, Chen Yiming, Chen Jingxue, **Xia Yuanjun**, Liu Yining. Fully Anonymous Broadcast Signcryption for Secure Health Data Transmission in WBANs[J], **IEEE Transactions on Mobile Computing**, 25(2):1729-1743, 2026.（中科院一区TOP，CCF A）
 13. Dong Shi, Shu Longhui, Xia Qingyu, Kamruzzaman Joarder, **Xia Yuanjun**, Peng Tao. Device Identification Method for Internet of Things Based on Spatial-Temporal Feature Residuals[J], **IEEE Transactions on Services Computing**, 17(6):3400-3416, 2024.（中科院一区TOP，CCF A）
-14. Zhao Zhiqiang, Hu Xuexian, Liu Yining, Wei Jianghong, **Xia Yuanjun**, Liang Yangfan. SECP-AKE: Secure and efficient certificateless-password-based authenticated key exchange protocol for smart healthcare systems[J], **IEEE Transactions on Services Computing**, 17(6):3400-3416, 2024.（中科院三区，CCF B）
+14. Zhao Zhiqiang, Hu Xuexian, Liu Yining, Wei Jianghong, **Xia Yuanjun**, Liang Yangfan. SECP-AKE: Secure and efficient certificateless-password-based authenticated key exchange protocol for smart healthcare systems[J], **Journal of Systems Architecture**, 17(6):3400-3416, 2024.（中科院三区，CCF B）
 
 ## 会议论文
 1. **Xia Yuanjun**, Dong Shi*, Peng Tao, Wang Tao. Wireless Network Abnormal Traffic Detection Method Based on Deep Transfer Reinforcement Learning[C], **MSN 2021**, 528-535.（CCF C）
