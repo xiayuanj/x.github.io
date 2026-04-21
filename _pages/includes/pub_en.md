@@ -13,9 +13,10 @@
 9. Dong Shi*, Xia Yuanjun, Kamruzzaman Joarder. Quantum Particle Swarm Optimization for Task Offloading in Mobile Edge Computing[J], **IEEE Transactions on Industrial Informatics**, 19(8):9113-9122, 2023.
 10. Dong Shi*, Xia Yuanjun, Peng Tao. Traffic identification model based on generative adversarial deep convolutional network[J], **Annals of Telecommunications**, 77(9):573-587, 2022.
 11. Dong Shi, Su Huadong, Xia Yuanjun, Zhu Fei*, Hu Xinrong, Wang Bangcao. A Comprehensive Survey on Authentication and Attack Detection Schemes That Threaten It in Vehicular Ad-Hoc Networks[J], **IEEE Transactions on Intelligent Transportation Systems**, 24(12):13573-13602, 2023.
-12. Liang Yangfan, Liu Gao, Zhang Xianchao, Chen Yiming, Chen Jingxue, Xia Yuanjun, Liu Yining. Fully Anonymous Broadcast Signcryption for Secure Health Data Transmission in WBANs[J], **IEEE Transactions on Mobile Computing**, 25(2):1729-1743, 2026.
-13. Dong Shi, Shu Longhui, Xia Qingyu, Kamruzzaman Joarder, Xia Yuanjun, Peng Tao. Device Identification Method for Internet of Things Based on Spatial-Temporal Feature Residuals[J], **IEEE Transactions on Services Computing**, 17(6):3400-3416, 2024.
-14. Zhao Zhiqiang, Hu Xuexian, Liu Yining, Wei Jianghong, Xia Yuanjun, Liang Yangfan. SECP-AKE: Secure and efficient certificateless-password-based authenticated key exchange protocol for smart healthcare systems[J], **Journal of Systems Architecture**, 167: 103485, 2025.
+12. Chen Shuang, Chen Jingxue, **Xia Yuanjun**, Liang Yangfan, Li You, Liu Yining*. Verifiable and Robust Privacy-preserving Multidimensional Truth Discovery for IoT Crowdsensing. **IEEE Internet of Things Journal**, 2026. 0I: 10.1109/I0T.2026.3685393.
+13. Liang Yangfan, Liu Gao, Zhang Xianchao, Chen Yiming, Chen Jingxue, Xia Yuanjun, Liu Yining. Fully Anonymous Broadcast Signcryption for Secure Health Data Transmission in WBANs[J], **IEEE Transactions on Mobile Computing**, 25(2):1729-1743, 2026.
+14. Dong Shi, Shu Longhui, Xia Qingyu, Kamruzzaman Joarder, Xia Yuanjun, Peng Tao. Device Identification Method for Internet of Things Based on Spatial-Temporal Feature Residuals[J], **IEEE Transactions on Services Computing**, 17(6):3400-3416, 2024.
+15. Zhao Zhiqiang, Hu Xuexian, Liu Yining, Wei Jianghong, Xia Yuanjun, Liang Yangfan. SECP-AKE: Secure and efficient certificateless-password-based authenticated key exchange protocol for smart healthcare systems[J], **Journal of Systems Architecture**, 167: 103485, 2025.
 
 ## Conference Papers
 1. Xia Yuanjun, Dong Shi*, Peng Tao, Wang Tao. Wireless Network Abnormal Traffic Detection Method Based on Deep Transfer Reinforcement Learning[C], **MSN 2021**, 528-535.
