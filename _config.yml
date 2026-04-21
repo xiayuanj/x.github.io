@@ -19,7 +19,7 @@ google_site_verification :
 bing_site_verification   :
 baidu_site_verification  :
 
-# Site Author
+# Site Author #"https://xiayuanj.github.io/xyj.github.io/"
 author:
   name             : "<b>夏元俊</b> <span style='font-weight: normal; font-size: 0.7em;'>YuanJun Xia</span>"
   avatar           : "images/Xia.jpg"
@@ -30,7 +30,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=fopP3AsAAAAJ&hl=zh-CN&oi=ao"
   email            : "[xiaujun@163.com]"
   researchgate     : "https://www.researchgate.net/profile/Xia-Yuanjun"
-  uri              : "https://xiayuanj.github.io/xyj.github.io/"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
