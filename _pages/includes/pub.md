@@ -20,7 +20,7 @@
 
 ## 会议论文
 1. **Xia Yuanjun**, Dong Shi*, Peng Tao, Wang Tao. Wireless Network Abnormal Traffic Detection Method Based on Deep Transfer Reinforcement Learning[C], **MSN 2021**, 528-535.（CCF C）
-2.  Lele Yu, Yuxing Wei, Xuan Lei, Yuanjun Xia*, Yining Liu. ConsistencyGuard: A Post‑hoc Defense Against Poisoning in Frequent Itemset Mining under Local Differential Privacy[C]. 28th International Conference on Information and Communications Security (ICICS), 2026. (CCF C)
+2.  Lele Yu, Yuxing Wei, Xuan Lei, Yuanjun Xia*, Yining Liu. ConsistencyGuard: A Post‑hoc Defense Against Poisoning in Frequent Itemset Mining under Local Differential Privacy[C]. **ICICS 2026**. (CCF C)
 
 ## 专利
 - 董仕, **夏元俊**, 于来行, 张锦华, 鲁硕, 赵文清, 夏钦宇. 基于深度迁移强化学习无线网络异常流量检测方法: CN202110866421.2[P]. 2023-04-07（授权）.
