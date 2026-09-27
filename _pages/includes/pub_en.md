@@ -19,7 +19,8 @@
 15. Zhao Zhiqiang, Hu Xuexian, Liu Yining, Wei Jianghong, Xia Yuanjun, Liang Yangfan. SECP-AKE: Secure and efficient certificateless-password-based authenticated key exchange protocol for smart healthcare systems[J], **Journal of Systems Architecture**, 167: 103485, 2025.
 
 ## Conference Papers
-1. Xia Yuanjun, Dong Shi*, Peng Tao, Wang Tao. Wireless Network Abnormal Traffic Detection Method Based on Deep Transfer Reinforcement Learning[C], **MSN 2021**, 528-535.
+1. Xia Yuanjun, Dong Shi*, Peng Tao, Wang Tao. Wireless Network Abnormal Traffic Detection Method Based on Deep Transfer Reinforcement Learning[C], **MSN 2021**, 528-535. (CCF C)
+2.  Lele Yu, Yuxing Wei, Xuan Lei, Yuanjun Xia*, Yining Liu. ConsistencyGuard: A Post‑hoc Defense Against Poisoning in Frequent Itemset Mining under Local Differential Privacy[C]. **ICICS 2026**. (CCF C)
 
 ## Patents
 - Dong Shi, Xia Yuanjun, et al. Wireless network abnormal traffic detection method based on deep transfer reinforcement learning: CN202110866421.2[P]. 2023-04-07 (Granted).
