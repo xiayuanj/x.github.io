@@ -7,4 +7,4 @@
 - **Edinburgh Napier University** | Visiting Scholar (School of Computing, Engineering and the Built Environment, Advisor: Prof. Zhiyuan Tan)<br>
   *Feb. 2024 – Apr. 2024, Edinburgh, UK (Funded by the Royal Society Exchange Grant)*
 - **Guilin University of Electronic Technology** | Ph.D. in Cyberspace Security (School of Computer Science and Information Security, Advisor: Prof. Yining Liu)<br>
-  *Sep. 2022 – Present, Guilin, Guangxi, China*
+  *Sep. 2022 – Jun. 2026, Guilin, Guangxi, China*
