@@ -8,4 +8,4 @@ My research primarily focuses on **privacy-preserving machine learning, intrusio
 - **Major**: Cyberspace Security
 - **Research Interests**: Privacy-Preserving Machine Learning, Intrusion Detection, Traffic Identification
 
-Currently a Ph.D. candidate in Cyberspace Security at the School of Computer Science and Information Security, Guilin University of Electronic Technology, supervised by Prof. Yining Liu. I received my M.S. degree from Wuhan Textile University (supervised by Prof. Tao Peng and Prof. Shi Dong), and conducted visiting research at the School of Computing, Engineering and the Built Environment, Edinburgh Napier University, UK (supervised by Prof. Zhiyuan Tan).
+
