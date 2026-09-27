@@ -2,8 +2,8 @@
 # 📚 科研成果
 
 ## 代表性期刊论文
-1. **Xia Yuanjun**, Tan Zhiyuan, Li Meng, Zhang Pengfei, Yu Lele, Dong Shi, Liu Yining*. Communication-Efficient and Byzantine-Tolerant Federated Learning for Multi-Access Edge Computing[J], **IEEE Transactions on Mobile Computing**, 2026, doi: 10.1109/TMC.2026.3730669.（中科院一区，CCF A）.
-2. **Xia Yuanjun**, Zhang Pengfei, Zhang Zuoli, Meng Weizhi, Li Meng, Dong Shi, Liu Yining*. Verifiable and Byzantine-Robust Differential Private Federated Learning[J], **IEEE Transactions on Dependable and Secure Computing**（中科院二区，CCF A, 录用）.
+1. **Xia Yuanjun**, Tan Zhiyuan, Li Meng, Zhang Pengfei, Yu Lele, Dong Shi, Liu Yining*. Communication-Efficient and Byzantine-Tolerant Federated Learning for Multi-Access Edge Computing[J], **IEEE Transactions on Mobile Computing**, 2026, doi: 10.1109/TMC.2026.3730669.（中科院一区TOP，CCF A）.
+2. **Xia Yuanjun**, Zhang Pengfei, Zhang Zuoli, Meng Weizhi, Li Meng, Dong Shi, Liu Yining*. Verifiable and Byzantine-Robust Differential Private Federated Learning[J], **IEEE Transactions on Dependable and Secure Computing**（中科院二区TOP，CCF A, 录用）.
 3. **Xia Yuanjun**, Liu Yining*, Dong Shi, Li Meng, Guo Cheng. SVCA: Secure and Verifiable Chained Aggregation for Privacy-Preserving Federated Learning[J], **IEEE Internet of Things Journal**, 11(10): 18351-18365, 2024.（2024年中科院一区TOP，CCF C）
 4. **Xia Yuanjun**, Liu Yining, Cheng Jingxue, Liang Yangfan, Khan Fazlullah*, Alturki Ryan, Wang Xiaopei. TEVA: Training-Efficient and Verifiable Aggregation for Federated Learning for Consumer Electronics in Industry 5.0[J], **IEEE Transactions on Consumer Electronics**, 71(2): 4248-4264, 2025.（中科院二区）
 5. **夏元俊**, 黎利辉, 任舒扬, 余乐乐, 刘忆宁*. 面向 VANETs 身份持续认证的隐私保护联邦学习方案[J], **电讯技术**, 65(07):1007-1015, 2025.（北大中文核心） 
