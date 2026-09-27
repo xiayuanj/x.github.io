@@ -3,7 +3,7 @@
 
 ## Representative Journal Papers
 1. Xia Yuanjun, Tan Zhiyuan, Li Meng, Zhang Pengfei, Yu Lele, Dong Shi, Liu Yining*. Communication-Efficient and Byzantine-Tolerant Federated Learning for Mobile Edge Computing[J], **IEEE Transactions on Mobile Computing**, 2026, doi: 10.1109/TMC.2026.3730669. (CCF A)
-2. Xia Yuanjun, Zhang Pengfei*, Zhang Zuoli, Meng Weizhi, Li Meng, Dong Shi, Liu Yining*. Verifiable and Byzantine-Robust Differential Private Federated Learning[J], **IEEE Transactions on Dependable and Secure Computing** (Accept).
+2. Xia Yuanjun, Zhang Pengfei*, Zhang Zuoli, Meng Weizhi, Li Meng, Dong Shi, Liu Yining*. Verifiable and Byzantine-Robust Differential Private Federated Learning[J], **IEEE Transactions on Dependable and Secure Computing** (CCF A, Accept).
 3. Xia Yuanjun, Liu Yining*, Dong Shi, Li Meng, Guo Cheng. SVCA: Secure and Verifiable Chained Aggregation for Privacy-Preserving Federated Learning[J], **IEEE Internet of Things Journal**, 11(10): 18351-18365, 2024.
 4. Xia Yuanjun, Liu Yining, Cheng Jingxue, Liang Yangfan, Khan Fazlullah*, Alturki Ryan, Wang Xiaopei. TEVA: Training-Efficient and Verifiable Aggregation for Federated Learning for Consumer Electronics in Industry 5.0[J], **IEEE Transactions on Consumer Electronics**, 71(2): 4248-4264, 2025.
 5. Xia Yuanjun, Li Lihui, Ren Shuyang, Yu Lele, Liu Yining*. Privacy-Preserving Federated Learning Scheme for Continuous Identity Authentication in VANETs[J], **Telecommunication Engineering**, 65(07):1007-1015, 2025. (in Chinese)
