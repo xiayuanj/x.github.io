@@ -1,4 +1,4 @@
-My research primarily focuses on **privacy-preserving machine learning, intrusion detection, and traffic identification**. I welcome academic exchanges and collaborations.
+I am currently a member of Professor Yining Liu’s research team at the School of Data Science and Artificial Intelligence, Wenzhou Institute of Technology. My research primarily focuses on **machine learning security, intrusion detection, and traffic identification**. I welcome opportunities for academic exchange and collaboration.
 
 - **Phone**: +86 13839637178
 - **Email**: [xiaujun@163.com](mailto:xiaujun@163.com)
