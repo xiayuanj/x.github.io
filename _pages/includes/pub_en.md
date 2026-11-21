@@ -2,7 +2,7 @@
 # 📚 Publications
 
 ## Representative Journal Papers
-1. Xia Yuanjun, Tan Zhiyuan, Li Meng, Zhang Pengfei, Yu Lele, Dong Shi, Liu Yining*. Communication-Efficient and Byzantine-Tolerant Federated Learning for Mobile Edge Computing[J], **IEEE Transactions on Mobile Computing**, 2026, doi: 10.1109/TMC.2026.3730669. (CCF A)
+1. Xia Yuanjun, Tan Zhiyuan, Li Meng, Zhang Pengfei, Yu Lele, Dong Shi, Liu Yining*. Communication-Efficient and Byzantine-Tolerant Federated Learning for Mobile Edge Computing[J], **IEEE Transactions on Mobile Computing**, 25(12): 22439-22456,2026. (CCF A)
 2. Xia Yuanjun, Zhang Pengfei*, Zhang Zuoli, Meng Weizhi, Li Meng, Dong Shi, Liu Yining*. Verifiable and Byzantine-Robust Differential Private Federated Learning[J], **IEEE Transactions on Dependable and Secure Computing** (CCF A, Accept).
 3. Xia Yuanjun, Liu Yining*, Dong Shi, Li Meng, Guo Cheng. SVCA: Secure and Verifiable Chained Aggregation for Privacy-Preserving Federated Learning[J], **IEEE Internet of Things Journal**, 11(10): 18351-18365, 2024.
 4. Xia Yuanjun, Liu Yining, Cheng Jingxue, Liang Yangfan, Khan Fazlullah*, Alturki Ryan, Wang Xiaopei. TEVA: Training-Efficient and Verifiable Aggregation for Federated Learning for Consumer Electronics in Industry 5.0[J], **IEEE Transactions on Consumer Electronics**, 71(2): 4248-4264, 2025.
@@ -12,11 +12,6 @@
 8. Dong Shi*, Xia Yuanjun. Network traffic identification in packet sampling environment[J], **Digital Communications and Networks**, 9(4):957-970, 2023.
 9. Dong Shi*, Xia Yuanjun, Kamruzzaman Joarder. Quantum Particle Swarm Optimization for Task Offloading in Mobile Edge Computing[J], **IEEE Transactions on Industrial Informatics**, 19(8):9113-9122, 2023.
 10. Dong Shi*, Xia Yuanjun, Peng Tao. Traffic identification model based on generative adversarial deep convolutional network[J], **Annals of Telecommunications**, 77(9):573-587, 2022.
-11. Dong Shi, Su Huadong, Xia Yuanjun, Zhu Fei*, Hu Xinrong, Wang Bangcao. A Comprehensive Survey on Authentication and Attack Detection Schemes That Threaten It in Vehicular Ad-Hoc Networks[J], **IEEE Transactions on Intelligent Transportation Systems**, 24(12):13573-13602, 2023.
-12. Chen Shuang, Chen Jingxue, **Xia Yuanjun**, Liang Yangfan, Li You, Liu Yining*. Verifiable and Robust Privacy-preserving Multidimensional Truth Discovery for IoT Crowdsensing. **IEEE Internet of Things Journal**, 2026. 0I: 10.1109/I0T.2026.3685393.
-13. Liang Yangfan, Liu Gao, Zhang Xianchao, Chen Yiming, Chen Jingxue, Xia Yuanjun, Liu Yining. Fully Anonymous Broadcast Signcryption for Secure Health Data Transmission in WBANs[J], **IEEE Transactions on Mobile Computing**, 25(2):1729-1743, 2026.
-14. Dong Shi, Shu Longhui, Xia Qingyu, Kamruzzaman Joarder, Xia Yuanjun, Peng Tao. Device Identification Method for Internet of Things Based on Spatial-Temporal Feature Residuals[J], **IEEE Transactions on Services Computing**, 17(6):3400-3416, 2024.
-15. Zhao Zhiqiang, Hu Xuexian, Liu Yining, Wei Jianghong, Xia Yuanjun, Liang Yangfan. SECP-AKE: Secure and efficient certificateless-password-based authenticated key exchange protocol for smart healthcare systems[J], **Journal of Systems Architecture**, 167: 103485, 2025.
 
 ## Conference Papers
 1. Xia Yuanjun, Dong Shi*, Peng Tao, Wang Tao. Wireless Network Abnormal Traffic Detection Method Based on Deep Transfer Reinforcement Learning[C], **MSN 2021**, 528-535. (CCF C)
