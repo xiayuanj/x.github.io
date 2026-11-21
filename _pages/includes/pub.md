@@ -12,7 +12,6 @@
 8. Dong Shi*, **Xia Yuanjun**. Network traffic identification in packet sampling environment[J], **Digital Communications and Networks**, 9(4):957-970, 2023.（中科院一区, 导师第一）
 9. Dong Shi*, **Xia Yuanjun**, Kamruzzaman Joarder. Quantum Particle Swarm Optimization for Task Offloading in Mobile Edge Computing[J], **IEEE Transactions on Industrial Informatics**, 19(8):9113-9122, 2023.（中科院一区，CCF C, 导师第一，谷歌学术引用量 101）
 10. Dong Shi*, **Xia Yuanjun**, Peng Tao. Traffic identification model based on generative adversarial deep convolutional network[J], **Annals of Telecommunications**, 77(9):573-587, 2022.（中科院四区, 导师第一）
-11. Dong Shi, Su Huadong, **Xia Yuanjun**, Zhu Fei*, Hu Xinrong, Wang Bangcao. A Comprehensive Survey on Authentication and Attack Detection Schemes That Threaten It in Vehicular Ad-Hoc Networks[J], **IEEE Transactions on Intelligent Transportation Systems**, 24(12):13573-13602, 2023.（2023年中科院一区TOP，CCF B）
 
 ## 会议论文
 1. **Xia Yuanjun**, Dong Shi*, Peng Tao, Wang Tao. Wireless Network Abnormal Traffic Detection Method Based on Deep Transfer Reinforcement Learning[C], **MSN 2021**, 528-535.（CCF C）
